@@ -13,6 +13,7 @@
 		478E440F24F1E06000EEFBE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 478E440D24F1E06000EEFBE3 /* Main.storyboard */; };
 		478E441124F1E06600EEFBE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 478E441024F1E06600EEFBE3 /* Assets.xcassets */; };
 		478E441424F1E06600EEFBE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 478E441224F1E06600EEFBE3 /* LaunchScreen.storyboard */; };
+		478E441C24F1E96E00EEFBE3 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478E441B24F1E96E00EEFBE3 /* CustomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		478E441024F1E06600EEFBE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		478E441324F1E06600EEFBE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		478E441524F1E06600EEFBE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		478E441B24F1E96E00EEFBE3 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				478E440724F1E06000EEFBE3 /* AppDelegate.swift */,
 				478E440924F1E06000EEFBE3 /* SceneDelegate.swift */,
 				478E440B24F1E06000EEFBE3 /* ViewController.swift */,
+				478E441B24F1E96E00EEFBE3 /* CustomButton.swift */,
 				478E440D24F1E06000EEFBE3 /* Main.storyboard */,
 				478E441024F1E06600EEFBE3 /* Assets.xcassets */,
 				478E441224F1E06600EEFBE3 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				478E441C24F1E96E00EEFBE3 /* CustomButton.swift in Sources */,
 				478E440C24F1E06000EEFBE3 /* ViewController.swift in Sources */,
 				478E440824F1E06000EEFBE3 /* AppDelegate.swift in Sources */,
 				478E440A24F1E06000EEFBE3 /* SceneDelegate.swift in Sources */,
